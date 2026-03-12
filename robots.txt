@@ -1,0 +1,14 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /terms
+Disallow: /privacy
+Disallow: /api.php
+Dissalow: /service
+Allow: /service/landing
+Allow: /service/corporate
+Allow: /service/ecommerce
+Allow: /service/optimization
+Allow: /service/ios
+Allow: /service/android
+Allow: /service/telegram-bot
+Sitemap: https://nexusweb.ru/sitemap.xml
